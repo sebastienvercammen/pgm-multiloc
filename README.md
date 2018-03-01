@@ -2,7 +2,7 @@
 A tool to visualize coverage of multiple instances of PokemonGo-Map
 
 ### Run It
-- Live Version: https://voxx.github.io/pgm-multiloc/
+- Live Version: https://pgm-multiloc.devkat.org/
 
 ### Install Locally
 - Clone the repository locally
